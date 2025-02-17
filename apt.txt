@@ -1,3 +1,2 @@
 libgomp1
-g++
-build-essential
+poppler-utils
