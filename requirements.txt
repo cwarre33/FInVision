@@ -1,1 +1,17 @@
-
+streamlit==1.42.1
+langchain==0.1.20
+langchain-community==0.2.0
+chromadb==0.4.24
+groq==0.18.0
+yfinance==0.2.53
+pandas==2.1.4
+numpy==1.26.4
+scipy==1.13.0
+plotly==5.18.0
+streamlit-aggrid==0.3.4
+unstructured[pdf]==0.17.2  # Critical: Add [pdf] extra
+pypdf==3.17.0
+sentence-transformers==2.7.0
+python-dotenv==1.0.1
+typing-extensions==4.11.0
+httpx==0.27.0
