@@ -9,7 +9,6 @@ numpy==1.26.4
 scipy==1.13.0
 plotly==5.18.0
 streamlit-aggrid==0.3.4
-unstructured[pdf]==0.17.2  # Critical: Add [pdf] extra
 pypdf==3.17.0
 sentence-transformers==2.7.0
 python-dotenv==1.0.1
