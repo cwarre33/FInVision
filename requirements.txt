@@ -1,0 +1,16 @@
+streamlit>=1.32.0
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain_ollama>=0.1.0
+chromadb>=0.4.22
+groq>=0.3.0
+yfinance>=0.2.36
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+plotly>=5.18.0
+st-aggrid>=0.3.4
+unstructured>=0.12.0
+pypdf>=3.17.0
+sentence-transformers>=2.2.2
+python-dotenv>=1.0.0
