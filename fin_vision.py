@@ -23,6 +23,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 from st_aggrid import AgGrid
 import time
+import requests
 
 # ====== Configuration ======
 st.set_page_config(
