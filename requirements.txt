@@ -1,6 +1,6 @@
 streamlit==1.42.1
 langchain==0.1.20
-langchain-community==0.2.0
+langchain-community
 chromadb==0.4.24
 groq==0.18.0
 yfinance==0.2.53
