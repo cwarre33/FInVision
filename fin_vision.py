@@ -1,3 +1,7 @@
+# Force use of patched sqlite3
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 # finance3.py
 import streamlit as st
 from langchain.document_loaders import UnstructuredPDFLoader
